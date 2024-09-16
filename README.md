@@ -1,4 +1,4 @@
-# Bookshelf App
+# Bookshelf Apps
 
 A web application for managing your personal book collection, built with vanilla JavaScript, HTML, and CSS.
 
