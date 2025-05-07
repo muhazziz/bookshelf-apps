@@ -34,7 +34,7 @@ Final Submission/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bookshelf-app.git
+   git clone https://github.com/muhazziz/bookshelf-app.git
    ```
 2. Navigate to the project directory:
    ```
